@@ -1,2 +1,9 @@
 # flask-docker-hello-world
-Repo for Flask-Hello-World Lab
+This is the repo created for Flask-Hello-World Lab assignment for Security Analysis MSBX 5500.
+
+# a docker-compose command to run Flask container
+docker-compose up
+This command builds my own docker container
+
+# a docker-compose command to execute make-request.py within a running container
+docker-compose exec web python make-request.py
