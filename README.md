@@ -5,7 +5,7 @@ This is the repo created for Flask-Hello-World Lab assignment for Security Analy
 
 # a docker-compose command to run Flask container
 docker-compose up
-This command builds my own docker container
+'''This command builds my own docker container'''
 
 # a docker-compose command to execute make-request.py within a running container
 docker-compose exec web python make-request.py
