@@ -12,5 +12,5 @@ docker-compose up
 ### • a docker-compose command to execute make-request.py within a running container
 ```bash
 docker-compose exec web python make-request.py
-#This command makes requests for the routes.
+#This command makes requests for the routes
 ```
