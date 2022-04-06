@@ -1,11 +1,9 @@
 # flask-docker-hello-world
 This is the repo created for Flask-Hello-World Lab assignment for Security Analysis MSBX 5500.
+"ping", "word" and "string-count" routes were included.
 
 # Contents
-.GITIGNORE
- <summary>`ping` route</summary>
-
-"ping", "word" and "string-count" routes were included.
+.GITIGNORE, Dockerfile, requirements.txt, docker-compose.yml, app.py, make-request.py
 
 ### • a docker-compose command to run Flask container
 ```bash
